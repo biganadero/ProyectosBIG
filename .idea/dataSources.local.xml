@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="CONEX_BI_GANADERO" uuid="1683ec17-3c9a-4f08-9b3e-d46245fd5c6e">
+      <user-name>postgres</user-name>
+      <user-password>dfd9dfcbdfdedfcfdfc6dfc6dfc3dfdedfcf</user-password>
+      <schema-pattern>DB_BI_GANADERO.der_bi_ganadero</schema-pattern>
+      <default-schemas>DB_BI_GANADERO.*</default-schemas>
+    </data-source>
+  </component>
+</project>
