@@ -1,2 +1,6 @@
 #Excluye todos los binarios python.
 *.pyc
+
+#Excluye las caches del proyecto.
+BIGANADERO/__pycache__/*
+ControlGanadero/__pycache__/*
